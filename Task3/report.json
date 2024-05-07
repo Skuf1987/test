@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "name": "Test1",
+  "value": 45,
+  "children": [
+    {
+      "id": 2,
+      "name": "Test2",
+      "value": 20,
+      "children": [
+        {
+          "id": 3,
+          "name": "Test3",
+          "value": 88
+        },
+        {
+          "id": 4,
+          "name": "Test4",
+          "value": 10
+        }
+      ]
+    }
+  ]
+}
